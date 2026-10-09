@@ -3,7 +3,7 @@ tipo: indice
 ---
 # Cibernetica e Drammaturgia Multimediale
 
-Accademia di Belle Arti di Sassari · Biennio di Nuove Tecnologie per l'Arte · Drammaturgia Multimediale (ABTEC38, 75h) + Cibernetica e Teoria dell'Informazione (30h) · 105 ore complessive · primo semestre
+Accademia di Belle Arti di Sassari · Biennio di Nuove Tecnologie per l'Arte · Drammaturgia Multimediale (75h) + Cibernetica e Teoria dell'Informazione (30h) · 105 ore complessive · primo semestre
 
 Questo è il vault del corso. Qui trovi le lezioni, le guide pratiche, il glossario e le esercitazioni. Il vault cresce lezione dopo lezione: se qualcosa manca, probabilmente non l'abbiamo ancora fatto.
 
